@@ -1,17 +1,24 @@
-def maxx(matr):
-    for i in range(0,len(matr[0])):
-        matr[0][i]=1
-    for i in range(0,len(matr)):
-        matr[i][0]=1
-    for i in range(1,len(matr)):
-        for j in range(1,len(matr[0])):
-            matr[i][j]=matr[i-1][j]+matr[i][j-1]
-    return matr[len(matr)-1][len(matr[0])-1]
+def find_all_paths(n, m):
+    dp = [[0] * m for _ in range(n)]
+
+    # Инициализация первой строки и первого столбца
+    dp[0][0] = 1
+    for i in range(1, n):
+        dp[i][0] = 1
+    for j in range(1, m):
+        dp[0][j] = 1
+
+    # Заполнение остальной части таблицы
+    for i in range(1, n):
+        for j in range(1, m):
+            dp[i][j] = dp[i-1][j] + dp[i][j-1]
 
 
-matrix = [
-    [0, 0, 0],
-    [0, 0, 0],
-    [0, 0, 0]
-]
-print(maxx(matrix))
+    return dp[n-1][m-1]
+
+
+
+n = int(input('Введите кол-во строк: '))
+m = int(input('Введите кол-во столбцов: '))
+print(f"Всего маршрутов: {find_all_paths(n, m)}")
+
