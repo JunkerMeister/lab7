@@ -10,7 +10,7 @@ def count_ways_to_climb(n):
 
     for i in range(3, n + 1):
         dp[i] = dp[i - 1] + dp[i - 2]
-
-
     return dp[n]
+
+
 print(count_ways_to_climb(int(input('enter count of ways to climb: '))))
