@@ -1,4 +1,4 @@
-def find_max_substring_count(word):
+def find_max_substring(word):
     max_count = 0
     max_substring = ""
 
@@ -12,20 +12,21 @@ def find_max_substring_count(word):
 
     return max_substring
 
+def find_end_count(wr):
+    substr = find_max_substring(wr)
+    ans = list(wr.replace(substr, '*'))
+    end_count = 0
+    cur_count = 0
+    for h in ans:
+        if h == '*':
+            cur_count += 1
+            end_count = max(end_count, cur_count)
+        else:
+            cur_count = 0
+    return end_count
 
 wr = input('Введите запос: ')
-substr = find_max_substring_count(wr)
-g = wr.replace(substr, '*')
-ans = list(g)
 
-end_count = 0
-cur_count = 0
-for h in ans:
-    if h == '*':
-        cur_count += 1
-        end_count = max(end_count, cur_count)
-    else:
-        cur_count = 0
 
-print(f"Подстрока '{substr}' {end_count} раза.")
+print(f"Подстрока '{find_max_substring(wr)}' {find_end_count(wr)} раза.")
 
