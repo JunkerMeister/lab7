@@ -4,55 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71bf539e-1661-4f39-89c8-abceb0051708" name="Changes" comment="-_--_--_-">
+    <list default="true" id="21c82509-cf59-4666-b890-4458f4ac9020" name="Changes" comment="-_-">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zd_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/zd_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master2" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;state&quot;: &quot;OPEN&quot;,
-      &quot;assignee&quot;: &quot;JunkerMeister&quot;,
-      &quot;author&quot;: &quot;JunkerMeister&quot;
-    }
-  ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;JunkerMeister&quot;,
-    &quot;author&quot;: &quot;JunkerMeister&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JunkerMeister"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JunkerMeister/lab7.git&quot;,
-    &quot;accountId&quot;: &quot;146402f6-ac09-4892-94be-f13f14516237&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JunkerMeister/lab7.git",
+    "accountId": "146402f6-ac09-4892-94be-f13f14516237"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2frjPIOyYrC6I5lMNzUVkbBt0gj" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2gEsPKctHavYGb7NnTS8AcchgZv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,24 +40,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.zd1.executor": "Run",
-    "Python.zd_1.executor": "Run",
-    "Python.zd_3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "Python.test.executor": "Run",
+    "Python.zd_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/junkermeist3r/Документы/GitHub/lab7",
-    "settings.editor.selected.configurable": "settings.sync"
-  },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
-    ]
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.zd_3">
-    <configuration name="zd_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.zd_2">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zd_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zd_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zd_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zd_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zd_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,96 +94,40 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zd_3" />
-        <item itemvalue="Python.zd_1" />
+        <item itemvalue="Python.zd_2" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71bf539e-1661-4f39-89c8-abceb0051708" name="Changes" comment="" />
-      <created>1714566064657</created>
+      <changelist id="21c82509-cf59-4666-b890-4458f4ac9020" name="Changes" comment="-_-" />
+      <created>1715274045233</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1714566064657</updated>
+      <updated>1715274045233</updated>
     </task>
-    <task id="LOCAL-00001" summary="-_--_--_-">
+    <task id="LOCAL-00001" summary="-_-">
       <option name="closed" value="true" />
-      <created>1714566319850</created>
+      <created>1715277815047</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1714566319850</updated>
+      <updated>1715277815047</updated>
     </task>
-    <task id="LOCAL-00002" summary="-_--_--_-">
-      <option name="closed" value="true" />
-      <created>1714566363010</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1714566363010</updated>
-    </task>
-    <task id="LOCAL-00003" summary="-_--_--_-">
-      <option name="closed" value="true" />
-      <created>1714566450777</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1714566450777</updated>
-    </task>
-    <task id="LOCAL-00004" summary="-_--_--_-">
-      <option name="closed" value="true" />
-      <created>1714566634034</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1714566634034</updated>
-    </task>
-    <task id="LOCAL-00005" summary="-_--_--_-">
-      <option name="closed" value="true" />
-      <created>1714566723054</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1714566723054</updated>
-    </task>
-    <task id="LOCAL-00006" summary="-_--_--_-">
-      <option name="closed" value="true" />
-      <created>1714566992896</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1714566992896</updated>
-    </task>
-    <task id="LOCAL-00007" summary="-_--_--_-">
-      <option name="closed" value="true" />
-      <created>1714567625338</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1714567625338</updated>
-    </task>
-    <task id="LOCAL-00008" summary="-_--_--_-">
-      <option name="closed" value="true" />
-      <created>1714568566356</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1714568566356</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="-_--_--_-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-_--_--_-" />
+    <MESSAGE value="-_-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-_-" />
   </component>
 </project>

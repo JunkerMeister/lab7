@@ -12,6 +12,7 @@ def find_max_substring(word):
 
     return max_substring
 
+
 def find_end_count(wr):
     substr = find_max_substring(wr)
     ans = list(wr.replace(substr, '*'))
