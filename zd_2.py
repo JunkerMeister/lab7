@@ -26,7 +26,7 @@ def find_end_count(wr):
             cur_count = 0
     return end_count
 
-
-wr = input('Введите запос: ')
-print(f"Подстрока '{find_max_substring(wr)}' {find_end_count(wr)} раза.")
+if __name__ == '__main__':
+    wr = input('Введите запос: ')
+    print(f"Подстрока '{find_max_substring(wr)}' {find_end_count(wr)} раза.")
 
