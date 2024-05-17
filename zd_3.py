@@ -12,13 +12,11 @@ def find_all_paths(n, m):
     for i in range(1, n):
         for j in range(1, m):
             dp[i][j] = dp[i-1][j] + dp[i][j-1]
-
-
     return dp[n-1][m-1]
 
 
-
-n = int(input('Введите кол-во строк: '))
-m = int(input('Введите кол-во столбцов: '))
-print(f"Всего маршрутов: {find_all_paths(n, m)}")
+if __name__ == '__main__':
+    n = int(input('Введите кол-во строк: '))
+    m = int(input('Введите кол-во столбцов: '))
+    print(f"Всего маршрутов: {find_all_paths(n, m)}")
 

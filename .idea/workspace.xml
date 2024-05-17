@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c82509-cf59-4666-b890-4458f4ac9020" name="Changes" comment="-_-\\">
+    <list default="true" id="21c82509-cf59-4666-b890-4458f4ac9020" name="Changes" comment="  -_-&#10;  \|/&#10;   |&#10;  / \">
+      <change afterPath="$PROJECT_DIR$/test_for_zd_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_for_zd_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zd_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/zd_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -44,26 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test for zd_2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_for_zd_1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in unit_test_zd1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zd_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zd_2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test for zd_2.py.executor": "Run",
+    "Python tests.Python tests in test_for_zd_1.py.executor": "Run",
+    "Python tests.Python tests in unit_test_zd1.py.executor": "Run",
+    "Python tests.pytest in lab7.executor": "Run",
+    "Python tests.pytest in test_for_zd_2.py.executor": "Run",
+    "Python tests.pytest in test_for_zd_3.py.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.zd_1.executor": "Run",
+    "Python.zd_2.executor": "Run",
+    "Python.zd_3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\heroh\PycharmProjects\lab7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_for_zd_1.py">
-    <configuration name="zd_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.zd_4">
+    <configuration name="zd_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zd_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zd_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,22 +92,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test for zd_2.test_find_max_substring" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="zd_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test for zd_2.test_find_max_substring&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zd_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in C:/Users/heroh/PycharmProjects/lab7/test for zd_2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in lab7" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="lab7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,12 +124,14 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test for zd_2.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_for_zd_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_for_zd_2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="lab7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,12 +141,14 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_for_zd_1.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_for_zd_2.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in unit_test_zd1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_for_zd_3.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="lab7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,18 +158,20 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/unit_test_zd1.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_for_zd_3.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_for_zd_1.py" />
-        <item itemvalue="Python.zd_1" />
-        <item itemvalue="Python tests.Python tests in unit_test_zd1.py" />
-        <item itemvalue="Python tests.Python tests in C:/Users/heroh/PycharmProjects/lab7/test for zd_2.py" />
-        <item itemvalue="Python tests.Python tests for test for zd_2.test_find_max_substring" />
+        <item itemvalue="Python.zd_4" />
+        <item itemvalue="Python tests.pytest in lab7" />
+        <item itemvalue="Python tests.pytest in test_for_zd_3.py" />
+        <item itemvalue="Python.zd_3" />
+        <item itemvalue="Python tests.pytest in test_for_zd_2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715423223745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="  -_-&#10;  \|/&#10;   |&#10;  / \">
+      <option name="closed" value="true" />
+      <created>1715961221639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715961221639</updated>
+    </task>
+    <task id="LOCAL-00007" summary="  -_-&#10;  \|/&#10;   |&#10;  / \">
+      <option name="closed" value="true" />
+      <created>1715962304956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715962304956</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +285,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-_-" />
     <MESSAGE value="-_-\\" />
-    <option name="LAST_COMMIT_MESSAGE" value="-_-\\" />
+    <MESSAGE value="  -_-&#10;  \|/&#10;   |&#10;  / \" />
+    <option name="LAST_COMMIT_MESSAGE" value="  -_-&#10;  \|/&#10;   |&#10;  / \" />
   </component>
 </project>

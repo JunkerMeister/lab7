@@ -18,7 +18,7 @@ def min_edit_distance(string1, string2):
                 dp[i][j] = 1 + min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1])
 
     return dp[m][n]
-
-string1 = input('s1:')
-string2 = input('s2:')
-print(f"'{string1}'\n'{string2}'\n {min_edit_distance(string1, string2)}")
+if __name__ == '__main__':
+    string1 = input('s1:')
+    string2 = input('s2:')
+    print(f"'{string1}'\n'{string2}'\n {min_edit_distance(string1, string2)}")
