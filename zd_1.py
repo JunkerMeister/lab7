@@ -12,5 +12,5 @@ def count_ways_to_climb(n):
         dp[i] = dp[i - 1] + dp[i - 2]
     return dp[n]
 
-
-print(count_ways_to_climb(int(input('enter count of ways to climb: '))))
+if __name__ == '__main__':
+    print(count_ways_to_climb(int(input('enter count of ways to climb: '))))

@@ -7,5 +7,3 @@ class TestCountWaysToClimb(unittest.TestCase):
         self.assertEqual(count_ways_to_climb(10), 89)
 
 
-if __name__ == '__main__':
-    unittest.main()
