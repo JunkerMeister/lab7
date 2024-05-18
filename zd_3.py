@@ -19,4 +19,3 @@ if __name__ == '__main__':
     n = int(input('Введите кол-во строк: '))
     m = int(input('Введите кол-во столбцов: '))
     print(f"Всего маршрутов: {find_all_paths(n, m)}")
-
