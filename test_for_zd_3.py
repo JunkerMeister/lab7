@@ -2,7 +2,6 @@ import pytest
 from zd_3 import *
 
 
-
 @pytest.mark.parametrize('x, y, expected_result', [(4, 4, 21),
                                                 (3, 3, 6),
                                                 (20, 40, 947309492837400)])
