@@ -1,7 +1,7 @@
 import pytest
 from zd_2 import *
 
-@pytest.mark.parametrize('word, expected_result', [('nnnfffn', 'nn'),
+@pytest.mark.parametrize('word, expected_result', [('nnnfffn', 'n'),
                                                 ('кокошанель', 'ко'),
                                                 ('nhgabdabdn', 'abd')])
 def test_find_max_substring(word, expected_result):
